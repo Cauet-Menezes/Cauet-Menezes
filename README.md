@@ -1,8 +1,5 @@
 # **Cauet Corrêa de Menezes** 
-```
-Hello, World!
-Welcome my GitHub!!
-```
+
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauet-menezes/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauet.menezes/)
@@ -21,5 +18,3 @@ Welcome my GitHub!!
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cauet-Menezes&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
